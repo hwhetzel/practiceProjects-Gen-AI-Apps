@@ -11,6 +11,8 @@ This repository contains a series of Python-based practice projects that I compl
 
 The projects followed a structured curriculum and were based on step-by-step tutorials, where I learned how to implement various generative models.
 
+The projects were all made on IBM Skills Network Labs, which is a virtual lab environment. So some of these projects might not fully work unless changed.
+
 **Course Link:**
 
 https://www.coursera.org/learn/building-gen-ai-powered-applications
@@ -69,17 +71,29 @@ The application is built using Gradio, a powerful library that simplifies the pr
 
 <br>
 
-**Practice Project 2:**
+**Practice Project 2: Build Your Own Chatbot Web App with GPT-3.5**
 
 **Description:**
 
+In this project, I built an AI-powered chatbot web application using OpenAI’s GPT-3.5 model integrated with Streamlit. The app allows users to interact with a generative AI model in a conversational format. By leveraging the OpenAI API, the chatbot generates intelligent and context-aware responses to user input. Streamlit provides a lightweight and intuitive web interface that makes the application both functional and easy to use.
 
 **Learning Outcomes:**
 
+- Understand how large language models like GPT-3.5 can be used to build conversational AI applications.
+
+- Learn how to interact with the OpenAI API to send prompts and receive generated responses.
+
+- Use Streamlit to design and deploy an interactive chatbot interface accessible through the browser.
 
 **Key Features:**
 
--
+-User input field to enter text queries.
+
+- Automatically generates responses using GPT-3.5 based on the conversation history.
+
+- Simple and interactive web UI using Streamlit for easy deployment and use.
+
+- Maintains conversational memory to keep the chat coherent.
 
 **Technologies Used**
 
@@ -87,9 +101,14 @@ Programming Language: Python
 
 Libraries/Frameworks:
 
--
+- OpenAI: To access and use the GPT-3.5 language model.
+
+- Streamlit: For creating an interactive and real-time web-based chatbot interface.
+
+- Python Built-in Libraries: For handling API keys, storing session state, and formatting responses.
 
 **A Note on the Project**
 
+This project demonstrates how to integrate a powerful language model into a real-time web interface, enabling users to engage with AI in a familiar chat-based format. It showcases the accessibility of generative AI technologies when paired with user-friendly frameworks like Streamlit. The chatbot is designed for quick prototyping and can be extended for use cases like customer support, virtual assistants, or educational tools. This project is a hands-on example of how conversational AI can be brought from concept to deployment with minimal overhead.
 
 <br>
