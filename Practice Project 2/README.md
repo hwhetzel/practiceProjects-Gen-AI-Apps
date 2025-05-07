@@ -12,3 +12,8 @@ python3.11 -m pip install torch==2.2.1
 
 
 python3.11 -m pip install -r LLM_application_chatbot/requirements.txt
+
+
+**To run the app input the following in the terminal**
+
+flask run
