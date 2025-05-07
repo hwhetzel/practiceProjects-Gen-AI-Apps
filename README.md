@@ -112,3 +112,85 @@ Libraries/Frameworks:
 This project demonstrates how to integrate a powerful language model into a real-time web interface, enabling users to engage with AI in a familiar chat-based format. It showcases the accessibility of generative AI technologies when paired with user-friendly frameworks like Streamlit. The chatbot is designed for quick prototyping and can be extended for use cases like customer support, virtual assistants, or educational tools. This project is a hands-on example of how conversational AI can be brought from concept to deployment with minimal overhead.
 
 <br>
+
+**Practice Project 3: Business AI Meeting Companion STT**
+
+**Description**
+
+In this project, I developed an AI-powered meeting assistant that transcribes business meeting conversations and summarizes them into concise, actionable key points. The application uses OpenAI's Whisper model to convert speech to text, and IBM Watson’s Natural Language Understanding (NLU) to generate summaries and extract critical insights. The user interacts with the system through an intuitive Gradio web interface, enabling a seamless voice-to-summary experience.
+
+**Learning Outcomes**
+
+- Understand how to use OpenAI Whisper to transcribe audio into accurate text.
+
+- Apply IBM Watson's NLU to summarize transcribed text and extract key decision points.
+
+- Integrate multiple AI services into a cohesive voice processing application.
+
+- Design an interactive web interface with Hugging Face Gradio for end-user access.
+
+- Set up and manage a Python virtual environment for multi-library AI development.
+
+**Key Features**
+
+- Upload an audio file from a meeting.
+
+- Transcribe speech to text using OpenAI Whisper.
+
+- Summarize the transcription and extract key decisions using IBM Watson NLU.
+
+- Display results in a clean, browser-based Gradio interface.
+
+- Modular and customizable architecture for educational or enterprise use.
+
+**Technologies Used**
+
+Programming Language: Python
+
+Libraries/Frameworks:
+
+- OpenAI Whisper – For high-accuracy speech-to-text conversion.
+
+- IBM Watson Natural Language Understanding (NLU) – For summarization and extracting key topics.
+
+- Gradio – To create the user-friendly web interface.
+
+- Transformers (Hugging Face) – To load and manage pre-trained models.
+
+- Torch – Backend for running Whisper.
+
+- LangChain – To structure and streamline interactions between components.
+
+- huggingface-hub – For connecting to models hosted on Hugging Face.
+
+
+**A Note on the Project**
+
+This project demonstrates how AI can enhance productivity by turning long, unstructured spoken content into focused, actionable summaries. The application showcases how powerful generative models like Whisper and NLU can be orchestrated into real-world workflows with just a few libraries and tools. Designed for simplicity and adaptability, this project serves as an excellent introduction to combining speech and language AI in practical applications.
+
+<br>
+
+**Practice Project 4:**
+
+**Description**
+
+
+
+**Learning Outcomes**
+
+- 
+
+**Key Features**
+
+- 
+
+**Technologies Used**
+
+Programming Language: Python
+
+Libraries/Frameworks:
+
+- 
+
+
+**A Note on the Project**
