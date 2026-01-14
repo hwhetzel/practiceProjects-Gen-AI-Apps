@@ -7,7 +7,7 @@ Welcome to my collection of practice projects completed as part of the Building 
 
 **About This Repository**
 
-This repository contains a series of Python-based practice projects that I completed as part of my coursework in Building Generative AI-Powered Applications with Python on Coursera. The projects cover key concepts in generative AI, such as building models that can generate text, images, and other data types.
+This repository contains some of the Python-based practice projects that I completed as part of my coursework in Building Generative AI-Powered Applications with Python on Coursera. The projects cover key concepts in generative AI, such as building models that can generate text, images, and other data types.
 
 The projects followed a structured curriculum and were based on step-by-step tutorials, where I learned how to implement various generative models.
 
